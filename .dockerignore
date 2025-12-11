@@ -1,0 +1,5 @@
+.vscode
+.git
+*.log
+node_modules
+images/*.psd
